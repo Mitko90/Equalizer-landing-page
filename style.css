@@ -51,7 +51,7 @@
 
   body{
     font-family: 'IBM Plex Sans', sans-serif;
-    padding-top: 4.375rem;
+    padding-top: 4rem;
     background-image: url(assets/bg-main-desktop.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -82,7 +82,7 @@
   }
 
   h1{
-    margin-top: 9rem;
+    margin-top: 8rem;
     font-size: 5.5rem;
     line-height: 5.5rem;
     font-weight: bold;
